@@ -13,7 +13,7 @@
 
 # HOW TO RUN
 
-# > Clone the repository and cd into it.
-# > Install the requirements by running pip install -r requirements.txt.
-# > In your terminal, run export PYTHONPATH=$PYTHONPATH:$(pwd) to add the current directory to your PYTHONPATH.
-# > Run python src/run.py to start the game.
+# > Clone the repository and ```cd``` into it.
+# > Install the requirements by running ```pip install -r requirements.txt```.
+# > In your terminal, run export ```PYTHONPATH=$PYTHONPATH:$(pwd)``` to add the current directory to your PYTHONPATH.
+# > Run python ```src/run.py``` to start the game.
