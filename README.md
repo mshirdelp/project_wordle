@@ -5,15 +5,15 @@
 
 # ROLES
 
-# . The player enters a random 5-letter word.
-# . If the random word is the word to be guessed, the game is over. The player receives a congratulations message.
-# . If the random word isn’t the word to be guessed, the player is informed about whether the right letter is at the right place and if some of the letters are in the word but wrongly placed.
-# . Based on this, the player has 6 tries to guess the word.
-# . At the end of the 6 attempts, if the player fails to guess the right word, the word is revealed.
+# > The player enters a random 5-letter word.
+# > If the random word is the word to be guessed, the game is over. The player receives a congratulations message.
+# > If the random word isn’t the word to be guessed, the player is informed about whether the right letter is at the right place and if some of the letters are in the word but wrongly placed.
+# > Based on this, the player has 6 tries to guess the word.
+# > At the end of the 6 attempts, if the player fails to guess the right word, the word is revealed.
 
 # HOW TO RUN
 
-# . Clone the repository and cd into it.
-# . Install the requirements by running pip install -r requirements.txt.
-# . In your terminal, run export PYTHONPATH=$PYTHONPATH:$(pwd) to add the current directory to your PYTHONPATH.
-# . Run python src/run.py to start the game.
+# > Clone the repository and cd into it.
+# > Install the requirements by running pip install -r requirements.txt.
+# > In your terminal, run export PYTHONPATH=$PYTHONPATH:$(pwd) to add the current directory to your PYTHONPATH.
+# > Run python src/run.py to start the game.
